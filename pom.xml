@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bestbuyapi</groupId>
-  <artifactId>Bestbuy-Api-Serenity-New-CucumberWeek19</artifactId>
+  <artifactId>Bestbuy-Api-Serenity-Week19</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Bestbuy-Api-Serenity-New-CucumberWeek19</name>
+  <name>Bestbuy-Api-Serenity-Week19</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -92,7 +92,7 @@
         <version>2.18</version>
         <configuration>
           <includes>
-            <include>**/localhost/**/*.java</include>
+            <include>**/BestbuyApi/**/*.java</include>
           </includes>
           <forkCount>4</forkCount>
           <reuseForks>true</reuseForks>

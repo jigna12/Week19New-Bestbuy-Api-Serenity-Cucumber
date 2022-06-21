@@ -9,6 +9,7 @@
         <module name="serenity-bestbuyapi-week-18" />
         <module name="Bestbuy-Api-Serenity-New" />
         <module name="Bestbuy-Api-Serenity-New - CucumberWeek19" />
+        <module name="Week19New-Bestbuy-Api-Serenity-Cucumber" />
       </profile>
     </annotationProcessing>
   </component>
