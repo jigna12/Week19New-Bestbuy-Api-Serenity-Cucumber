@@ -1,0 +1,16 @@
+com\bestbuyapi\bestbuyinfo\CategoriesCRUDTest.class
+com\bestbuyapi\cucumber\steps\CategoriesCURDSteps.class
+com\bestbuyapi\cucumber\ProductsRunner.class
+com\bestbuyapi\bestbuyinfo\ProductsCRUDTest.class
+com\bestbuyapi\cucumber\StoresRunner.class
+com\bestbuyapi\cucumber\steps\UtilitiesCURDSteps.class
+com\bestbuyapi\cucumber\steps\ProductsCURDSteps.class
+com\bestbuyapi\cucumber\steps\ServicesCURDSteps.class
+com\bestbuyapi\bestbuyinfo\ServicesCRUDTest.class
+com\bestbuyapi\cucumber\CategoriesRunner.class
+com\bestbuyapi\cucumber\UtilitiesRunner.class
+com\bestbuyapi\testbase\TestBase.class
+com\bestbuyapi\cucumber\steps\StoresCURDSteps.class
+com\bestbuyapi\bestbuyinfo\StoresCRUDTest.class
+com\bestbuyapi\cucumber\ServicesRunner.class
+com\bestbuyapi\bestbuyinfo\UtilitiesCRUDTest.class
